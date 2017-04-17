@@ -498,4 +498,9 @@ public class MQAdminExtImpl implements MQAdminExt {
         List<String> list) throws InterruptedException, RemotingTimeoutException, RemotingSendRequestException, RemotingConnectException, MQClientException, UnsupportedEncodingException {
         return null;
     }
+
+    @Override public void addCommitLogStorePath(String s,
+        String s1) throws RemotingException, InterruptedException, MQBrokerException {
+
+    }
 }
