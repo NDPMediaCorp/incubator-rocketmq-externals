@@ -1,5 +1,5 @@
 var en = {
-    "TITLE": "RocketMq-Console-Ng",
+    "TITLE": "RocketMQ-Console",
     "CLOSE": "Close",
     "NO": "NO.",
     "ADDRESS": "Address",
@@ -31,7 +31,7 @@ var en = {
     "SEND_MSG": "Send Massage",
     "RESET_CUS_OFFSET": "Reset Consumer Offset",
     "DELETE": "Delete",
-    "CHANGE_LANG": "ChangeLanguage",
+    "CHANGE_LANG": "Switch Language",
     "BROKER": "Broker",
     "NORMAL": "NORMAL",
     "RETRY": "RETRY",
